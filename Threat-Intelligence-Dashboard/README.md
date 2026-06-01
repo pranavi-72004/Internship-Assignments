@@ -78,16 +78,3 @@ A **90's hacker-themed** threat intelligence dashboard that pulls live data from
 
 ---
 
-## 📁 Project Structure
-
-```
-├── public/             # Frontend assets (HTML, CSS, JS, video)
-├── uploads/            # Temp storage for uploaded files
-├── server.js           # Express server and API routes
-├── package.json        # Dependency & engine definitions
-├── .env                # Environment variables (ignored by Git)
-└── .gitignore
-```
-
----
-
