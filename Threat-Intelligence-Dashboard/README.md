@@ -91,10 +91,3 @@ A **90's hacker-themed** threat intelligence dashboard that pulls live data from
 
 ---
 
-## 🎉 License
-
-This project is open source under the **MIT License**. Feel free to fork, modify, and share!
-
----
-
-© 2025 Threat Intelligence Dashboard Project. Enjoy the 90's hacker vibes! Keep it green, keep it mean.
